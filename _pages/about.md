@@ -17,7 +17,7 @@ redirect_from:
 
 <span class='anchor' id='about-me'></span>
 
-I am a PhD student in National University of Singapore (NUS), supervised by Prof. [Li Haizhou](https://colips.org/~eleliha/) and Prof. [Robby T. Tan](https://tanrobby.github.io/). Prior to that, I received the Bachelor’s Degree from Southern University of Science and Technology (SUSTech) in 2020.
+I am a PhD student in National University of Singapore (NUS), supervised by Prof. [Li Haizhou (李海洲)](https://colips.org/~eleliha/) and Prof. [Robby T. Tan](https://tanrobby.github.io/). Prior to that, I received the Bachelor’s Degree from Southern University of Science and Technology (SUSTech) in 2020.
 
 My research interests span the areas of natural language processing and machine learning. I am specifically interested in large language models, few-shot learning and representation learning. I am also interested in their applications to conversational AI.
 
