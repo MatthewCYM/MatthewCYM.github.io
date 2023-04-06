@@ -42,6 +42,16 @@ My research interests span the areas of natural language processing and machine 
 - **Yiming Chen**, Yan Zhang, Chen Zhang, Grandee Lee, Ran Cheng, Haizhou Li, [Revisiting Self-Training for Few-Shot Learning of Language Model](https://aclanthology.org/2021.emnlp-main.718/), **EMNLP**, 2021.
 - Chen Zhang, **Yiming Chen**, Luis Fernando D’Haro, Yan Zhang, Thomas Friedrichs, Grandee Lee, Haizhou Li, [DynaEval: Unifying Turn and Dialogue Level Evaluation](https://aclanthology.org/2021.acl-long.441/), **ACL**, 2021.
 
+# 🎖 Others
+
+**Reviewer**
+
+- Reviewer of ACL
+
+**Teaching**
+
+- **Microcontroller Programming and Interfacing**, Teaching Assistant, NUS undergraduate course.
+- **Visual Computing**, Teaching Assistant, NUS graduate course.
 
 <!-- <div class='paper-box'><div class='paper-box-image'><div><div class="badge">CVPR 2016</div><img src='images/500x300.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
