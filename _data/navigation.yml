@@ -28,8 +28,8 @@ main:
   - title: "Education"
     url: "/#-education"
 
-  - title: "Publication"
-    url: "/#-publication"
+  - title: "Publications"
+    url: "/#-publications"
     
   - title: "Others"
     url: "/#-others"
