@@ -34,7 +34,10 @@ I am a PhD student in National University of Singapore (NUS), supervised by Prof
  -->
 # 📝 Publications 
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">CVPR 2016</div><img src='images/500x300.png' alt="sym" width="100%"></div></div>
+**Yiming Chen**, Yan Zhang, Bin Wang, Zuozhu Liu, Haizhou Li, [Generate, Discriminate and Contrast: A Semi-Supervised Sentence Representation Learning Framework](https://aclanthology.org/2022.emnlp-main.558/), **EMNLP**, 2022.
+Bin Wang, Chen Zhang, Yan Zhang, **Yiming Chen**, Haizhou Li, [Analyzing and Evaluating Faithfulness in Dialogue Summarization](https://aclanthology.org/2022.emnlp-main.325/), **EMNLP**, 2022.
+
+<!-- <div class='paper-box'><div class='paper-box-image'><div><div class="badge">CVPR 2016</div><img src='images/500x300.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
 [Deep Residual Learning for Image Recognition](https://openaccess.thecvf.com/content_cvpr_2016/papers/He_Deep_Residual_Learning_CVPR_2016_paper.pdf)
@@ -46,7 +49,7 @@ I am a PhD student in National University of Singapore (NUS), supervised by Prof
 </div>
 </div>
 
-- [Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet](https://github.com), A, B, C, **CVPR 2020**
+- [Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet](https://github.com), A, B, C, **CVPR 2020** -->
 
 <!-- # 🎖 Honors and Awards
 - *2021.10* Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
