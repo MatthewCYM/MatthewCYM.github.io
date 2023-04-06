@@ -36,8 +36,8 @@ My research interests span the areas of natural language processing and machine 
  -->
 # 📝 Publications 
 
-- **Yiming Chen**, Yan Zhang, Bin Wang, Zuozhu Liu, Haizhou Li, [Generate, Discriminate and Contrast: A Semi-Supervised Sentence Representation Learning Framework](https://aclanthology.org/2022.emnlp-main.558/), **EMNLP**, 2022.
-- Bin Wang, Chen Zhang, Yan Zhang, **Yiming Chen**, Haizhou Li, [Analyzing and Evaluating Faithfulness in Dialogue Summarization](https://aclanthology.org/2022.emnlp-main.325/), **EMNLP**, 2022.
+- **Yiming Chen**, Yan Zhang, Bin Wang, Zuozhu Liu, Haizhou Li, [Generate, Discriminate and Contrast: A Semi-Supervised Sentence Representation Learning Framework](https://aclanthology.org/2022.emnlp-main.558/), **EMNLP**, 2022. [[Code]](https://github.com/MatthewCYM/GenSE)
+- Bin Wang, Chen Zhang, Yan Zhang, **Yiming Chen**, Haizhou Li, [Analyzing and Evaluating Faithfulness in Dialogue Summarization](https://aclanthology.org/2022.emnlp-main.325/), **EMNLP**, 2022. [[Code]](https://github.com/BinWang28/FacEval)
 - Chen Zhang, Luis Fernando D’Haro, **Yiming Chen**, Thomas Friedrichs, Haizhou Li, [Investigating the Impact of Pre-trained Language Models on Dialog Evaluation](https://arxiv.org/abs/2110.01895), **IWSDS**, 2021.
 - **Yiming Chen**, Yan Zhang, Chen Zhang, Grandee Lee, Ran Cheng, Haizhou Li, [Revisiting Self-Training for Few-Shot Learning of Language Model](https://aclanthology.org/2021.emnlp-main.718/), **EMNLP**, 2021.
 - Chen Zhang, **Yiming Chen**, Luis Fernando D’Haro, Yan Zhang, Thomas Friedrichs, Grandee Lee, Haizhou Li, [DynaEval: Unifying Turn and Dialogue Level Evaluation](https://aclanthology.org/2021.acl-long.441/), **ACL**, 2021.
