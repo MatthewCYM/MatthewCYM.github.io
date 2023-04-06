@@ -21,7 +21,7 @@ baidu_site_verification  :  # get baidu_site_verification from https://ziyuan.ba
 
 # Site Author
 author:
-  name             : "Chen Yiming"
+  name             : "Chen Yiming <br> (陈逸鸣)"
   avatar           : "images/123.jpg"
   bio              : "National University of Singapore"
   location         : "Singapore"
