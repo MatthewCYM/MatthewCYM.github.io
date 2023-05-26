@@ -35,7 +35,7 @@ My research interests span the areas of natural language processing and machine 
 - *2022.02*: &nbsp;🎉🎉 Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
  -->
 # 📝 Publications 
-- **Yiming Chen**, Simin Chen, Zexin Li, Wei Yang, Cong Liu, Robby T. Tan, Haizhou Li, Dynamic Transformers Provide a False Sense of Efficiency, **ACL**, 2023.
+- **Yiming Chen**, Simin Chen, Zexin Li, Wei Yang, Cong Liu, Robby T. Tan, Haizhou Li, [Dynamic Transformers Provide a False Sense of Efficiency](https://arxiv.org/abs/2305.12228), **ACL**, 2023. [[Code]](https://github.com/MatthewCYM/SAME)
 - **Yiming Chen**, Yan Zhang, Bin Wang, Zuozhu Liu, Haizhou Li, [Generate, Discriminate and Contrast: A Semi-Supervised Sentence Representation Learning Framework](https://aclanthology.org/2022.emnlp-main.558/), **EMNLP**, 2022. [[Code]](https://github.com/MatthewCYM/GenSE)
 - Bin Wang, Chen Zhang, Yan Zhang, **Yiming Chen**, Haizhou Li, [Analyzing and Evaluating Faithfulness in Dialogue Summarization](https://aclanthology.org/2022.emnlp-main.325/), **EMNLP**, 2022. [[Code]](https://github.com/BinWang28/FacEval)
 - Chen Zhang, Luis Fernando D’Haro, **Yiming Chen**, Thomas Friedrichs, Haizhou Li, [Investigating the Impact of Pre-trained Language Models on Dialog Evaluation](https://arxiv.org/abs/2110.01895), **IWSDS**, <font color="red">Best paper</font>, 2021.
