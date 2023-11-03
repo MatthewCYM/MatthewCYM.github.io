@@ -46,7 +46,7 @@ My research interests span the areas of natural language processing and machine 
 
 **Reviewer**
 
-- Reviewer of ACL
+- Reviewer of ACL, EACL
 
 **Teaching**
 
