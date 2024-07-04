@@ -35,8 +35,8 @@ My research interests span the areas of natural language processing and machine 
 - *2022.02*: &nbsp;🎉🎉 Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
  -->
 # 📝 Publications
-- **Yiming Chen**, Chen Zhang, Danqing Luo, Luis Fernando D'Haro, Robby T. Tan, Haizhou Li, [Unveiling the Achilles' Heel of NLG Evaluators: A Unified Adversarial Framework Driven by Large Language Models](https://arxiv.org/abs/2405.14646), **ACL Findings**, 2024.
-- Chen Zhang, Luis Fernando D'Haro, **Yiming Chen**, Malu Zhang, Haizhou Li, [A Comprehensive Analysis of the Effectiveness of Large Language Models as Automatic Dialogue Evaluators](https://arxiv.org/abs/2312.15407), **AAAI**, 2024.
+- **Yiming Chen**, Chen Zhang, Danqing Luo, Luis Fernando D'Haro, Robby T. Tan, Haizhou Li, [Unveiling the Achilles' Heel of NLG Evaluators: A Unified Adversarial Framework Driven by Large Language Models](https://arxiv.org/abs/2405.14646), **ACL Findings**, 2024. [[Code]](https://github.com/MatthewCYM/AdvEval)
+- Chen Zhang, Luis Fernando D'Haro, **Yiming Chen**, Malu Zhang, Haizhou Li, [A Comprehensive Analysis of the Effectiveness of Large Language Models as Automatic Dialogue Evaluators](https://arxiv.org/abs/2312.15407), **AAAI**, 2024. [[Code]](https://github.com/e0397123/comp-analysis)
 - **Yiming Chen**, Simin Chen, Zexin Li, Wei Yang, Cong Liu, Robby T. Tan, Haizhou Li, [Dynamic Transformers Provide a False Sense of Efficiency](https://aclanthology.org/2023.acl-long.395/), **ACL**, 2023. [[Code]](https://github.com/MatthewCYM/SAME)
 - **Yiming Chen**, Yan Zhang, Bin Wang, Zuozhu Liu, Haizhou Li, [Generate, Discriminate and Contrast: A Semi-Supervised Sentence Representation Learning Framework](https://aclanthology.org/2022.emnlp-main.558/), **EMNLP**, 2022. [[Code]](https://github.com/MatthewCYM/GenSE)
 - Bin Wang, Chen Zhang, Yan Zhang, **Yiming Chen**, Haizhou Li, [Analyzing and Evaluating Faithfulness in Dialogue Summarization](https://aclanthology.org/2022.emnlp-main.325/), **EMNLP**, 2022. [[Code]](https://github.com/BinWang28/FacEval)
