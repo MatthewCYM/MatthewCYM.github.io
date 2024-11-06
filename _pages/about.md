@@ -35,7 +35,7 @@ My research interests span the areas of natural language processing and machine 
 - *2022.02*: &nbsp;🎉🎉 Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
  -->
 # 📝 Publications
-- **Yiming Chen**, Xianghu Yue, Xiaoxue Gao, Chen Zhang, Luis Fernando D'Haro, Robby T. Tan, Haizhou Li, [Beyond Single-Audio: Advancing Multi-Audio Processing in Audio Large Language Models](https://arxiv.org/abs/2409.18680), **EMNLP Findings**, 2024.
+- **Yiming Chen**, Xianghu Yue, Xiaoxue Gao, Chen Zhang, Luis Fernando D'Haro, Robby T. Tan, Haizhou Li, [Beyond Single-Audio: Advancing Multi-Audio Processing in Audio Large Language Models](https://arxiv.org/abs/2409.18680), **EMNLP Findings**, 2024. [[Code]](https://github.com/MatthewCYM/MALLM)
 - Xianghu Yue, Xueyi Zhang, **Yiming Chen**, Chengwei Zhang, Mingrui Lao, Huiping Zhuang, Xinyuan Qian, Haizhou Li, [MMAL: Multi-Modal Analytic Learning for Exemplar-Free Audio-Visual Class Incremental Tasks](https://openreview.net/forum?id=zGoCaP7NyR), **MM**, 2024.
 - Xiaoxue Gao, Zexin Li, **Yiming Chen**, Cong Liu, Haizhou Li, [Transferable Adversarial Attacks against ASR](https://ieeexplore.ieee.org/document/10637681), **SPL**, 2024.
 - **Yiming Chen**, Chen Zhang, Danqing Luo, Luis Fernando D'Haro, Robby T. Tan, Haizhou Li, [Unveiling the Achilles' Heel of NLG Evaluators: A Unified Adversarial Framework Driven by Large Language Models](https://arxiv.org/abs/2405.14646), **ACL Findings**, 2024. [[Code]](https://github.com/MatthewCYM/AdvEval)
