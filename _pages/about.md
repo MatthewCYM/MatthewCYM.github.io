@@ -35,6 +35,8 @@ My research interests span the areas of natural language processing and machine 
 - *2022.02*: &nbsp;🎉🎉 Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
  -->
 # 📝 Publications
+- Xiaoxue Gao, **Yiming Chen**, Xianghu Yue, Yu Tsao, Nancy F. Chen, [TTSlow: Slow Down Text-to-Speech with Efficiency Robustness Evaluations](https://arxiv.org/abs/2407.01927), **TASLP**, 2025.
+- Xiaoxue Gao, Chen Zhang, **Yiming Chen**, Huayun Zhang, Nancy F. Chen, [Emo-DPO: Controllable Emotional Speech Synthesis through Direct Preference Optimization](https://arxiv.org/abs/2409.10157), **ICASSP**, 2025.
 - **Yiming Chen**, Xianghu Yue, Xiaoxue Gao, Chen Zhang, Luis Fernando D'Haro, Robby T. Tan, Haizhou Li, [Beyond Single-Audio: Advancing Multi-Audio Processing in Audio Large Language Models](https://arxiv.org/abs/2409.18680), **EMNLP Findings**, 2024. [[Code]](https://github.com/MatthewCYM/MALLM)
 - Xianghu Yue, Xueyi Zhang, **Yiming Chen**, Chengwei Zhang, Mingrui Lao, Huiping Zhuang, Xinyuan Qian, Haizhou Li, [MMAL: Multi-Modal Analytic Learning for Exemplar-Free Audio-Visual Class Incremental Tasks](https://openreview.net/forum?id=zGoCaP7NyR), **MM**, 2024.
 - Xiaoxue Gao, Zexin Li, **Yiming Chen**, Cong Liu, Haizhou Li, [Transferable Adversarial Attacks against ASR](https://ieeexplore.ieee.org/document/10637681), **SPL**, 2024.
