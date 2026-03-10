@@ -35,6 +35,7 @@ My research interests span the areas of natural language processing and machine 
 - *2022.02*: &nbsp;🎉🎉 Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
  -->
 # 📝 Publications
+- Simin Chen, **Yiming Chen**, Zexin Li, Yifan Jiang, Zhongwei Wan, Yixin He, Dezhi Ran, Tianle Gu, Haizhou Li, Tao Xie, Baishakhi Ray, [Recent Advances in Large Langauge Model Benchmarks against Data Contamination: From Static to Dynamic Evaluation](https://arxiv.org/abs/2502.17521), **EMNLP**, 2025.
 - Xiaoxue Gao, **Yiming Chen**, Xianghu Yue, Yu Tsao, Nancy F. Chen, [TTSlow: Slow Down Text-to-Speech with Efficiency Robustness Evaluations](https://arxiv.org/abs/2407.01927), **TASLP**, 2025.
 - Xiaoxue Gao, Chen Zhang, **Yiming Chen**, Huayun Zhang, Nancy F. Chen, [Emo-DPO: Controllable Emotional Speech Synthesis through Direct Preference Optimization](https://arxiv.org/abs/2409.10157), **ICASSP**, 2025.
 - **Yiming Chen**, Xianghu Yue, Xiaoxue Gao, Chen Zhang, Luis Fernando D'Haro, Robby T. Tan, Haizhou Li, [Beyond Single-Audio: Advancing Multi-Audio Processing in Audio Large Language Models](https://arxiv.org/abs/2409.18680), **EMNLP Findings**, 2024. [[Code]](https://github.com/MatthewCYM/MALLM)
@@ -54,6 +55,7 @@ My research interests span the areas of natural language processing and machine 
 **Reviewer**
 
 - Reviewer of ACL, EMNLP, NAACL, EACL, ICLR
+- Area Chair of ARR
 
 **Teaching**
 
