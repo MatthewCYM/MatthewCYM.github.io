@@ -35,6 +35,8 @@ My research interests span the areas of natural language processing and machine 
 - *2022.02*: &nbsp;🎉🎉 Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
  -->
 # 📝 Publications
+- Hongchao Jiang, **Yiming Chen**, Yushi Cao, Hung-yi Lee, Robby T Tan, [CodeJudgeBench: Benchmarking LLM-as-a-Judge for Coding Tasks](https://arxiv.org/abs/2507.10535), **ACL**, 2026.
+- Xianghu Yue, **Yiming Chen**, Xueyi Zhang, Xiaoxue Gao, Mengling Feng, Mingrui Lao, Huiping Zhuang, Haizhou Li, [PAL: Prompting Analytic Learning with Missing Modality for Multi-Modal Class-Incremental Learning](https://arxiv.org/abs/2501.09352), **Pattern Recognition**, 2026.
 - Simin Chen, **Yiming Chen**, Zexin Li, Yifan Jiang, Zhongwei Wan, Yixin He, Dezhi Ran, Tianle Gu, Haizhou Li, Tao Xie, Baishakhi Ray, [Recent Advances in Large Langauge Model Benchmarks against Data Contamination: From Static to Dynamic Evaluation](https://arxiv.org/abs/2502.17521), **EMNLP**, 2025.
 - Xiaoxue Gao, **Yiming Chen**, Xianghu Yue, Yu Tsao, Nancy F. Chen, [TTSlow: Slow Down Text-to-Speech with Efficiency Robustness Evaluations](https://arxiv.org/abs/2407.01927), **TASLP**, 2025.
 - Xiaoxue Gao, Chen Zhang, **Yiming Chen**, Huayun Zhang, Nancy F. Chen, [Emo-DPO: Controllable Emotional Speech Synthesis through Direct Preference Optimization](https://arxiv.org/abs/2409.10157), **ICASSP**, 2025.
