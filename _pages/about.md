@@ -35,7 +35,10 @@ My research interests span the areas of natural language processing and machine 
 - *2022.02*: &nbsp;🎉🎉 Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
  -->
 # 📝 Publications
-> <sup>*</sup> Corresponding author; <sup>†</sup> Equal contribution
+
+<p style="margin: 0 0 0.4em 0; font-style: italic;">
+  <sup>*</sup> Corresponding author; <sup>†</sup> Equal contribution
+</p>
 
 - Hongchao Jiang, **Yiming Chen**<sup>*</sup>, Yushi Cao, Hung-yi Lee, Robby T Tan, [CodeJudgeBench: Benchmarking LLM-as-a-Judge for Coding Tasks](https://arxiv.org/abs/2507.10535), **ACL**, 2026.
 - **Yiming Chen**, Xianghu Yue, Chen Zhang, Xiaoxue Gao, Robby T. Tan, Haizhou Li, [VoiceBench: Benchmarking LLM-Based Voice Assistants](https://arxiv.org/abs/2410.17196), **TACL**, 2026.
