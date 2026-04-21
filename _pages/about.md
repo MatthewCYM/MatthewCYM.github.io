@@ -40,8 +40,11 @@ My research interests span the areas of natural language processing and machine 
   <sup>*</sup> Corresponding author; <sup>†</sup> Equal contribution
 </p>
 
+- Feiyu Zhao<sup>†</sup>, **Yiming Chen**<sup>†</sup>, Wenhuan Lu, Daipeng Zhang, Xianghu Yue, Jianguo Wei, HalluAudio: A Comprehensive Benchmark for Hallucination Detection in Large Audio-Language Models, **ACL**, 2026.
 - Hongchao Jiang, **Yiming Chen**<sup>*</sup>, Yushi Cao, Hung-yi Lee, Robby T Tan, [CodeJudgeBench: Benchmarking LLM-as-a-Judge for Coding Tasks](https://arxiv.org/abs/2507.10535), **ACL**, 2026.
-- **Yiming Chen**, Xianghu Yue, Chen Zhang, Xiaoxue Gao, Robby T. Tan, Haizhou Li, [VoiceBench: Benchmarking LLM-Based Voice Assistants](https://arxiv.org/abs/2410.17196), **TACL**, 2026.
+- Ho-Lam Chung, **Yiming Chen**<sup>*</sup>, Hung-yi Lee, LLM-Codec: Neural Audio Codec Meets Language Model Objectives, **ACL Findings**, 2026.
+- Yushi Cao, **Yiming Chen**<sup>*</sup>, Hongchao Jiang, Hung-yi Lee, Robby T. Tan, ReMedi: Reasoner for Medical Clinical Prediction, **ACL Findings**, 2026.
+- **Yiming Chen**<sup>†</sup>, Xianghu Yue<sup>†</sup>, Chen Zhang, Xiaoxue Gao, Robby T. Tan, Haizhou Li, [VoiceBench: Benchmarking LLM-Based Voice Assistants](https://arxiv.org/abs/2410.17196), **TACL**, 2026.
 - Xianghu Yue, **Yiming Chen**, Xueyi Zhang, Xiaoxue Gao, Mengling Feng, Mingrui Lao, Huiping Zhuang, Haizhou Li, [PAL: Prompting Analytic Learning with Missing Modality for Multi-Modal Class-Incremental Learning](https://arxiv.org/abs/2501.09352), **Pattern Recognition**, 2026.
 - Simin Chen, **Yiming Chen**, Zexin Li, Yifan Jiang, Zhongwei Wan, Yixin He, Dezhi Ran, Tianle Gu, Haizhou Li, Tao Xie, Baishakhi Ray, [Recent Advances in Large Langauge Model Benchmarks against Data Contamination: From Static to Dynamic Evaluation](https://arxiv.org/abs/2502.17521), **EMNLP**, 2025.
 - Xiaoxue Gao, **Yiming Chen**, Xianghu Yue, Yu Tsao, Nancy F. Chen, [TTSlow: Slow Down Text-to-Speech with Efficiency Robustness Evaluations](https://arxiv.org/abs/2407.01927), **TASLP**, 2025.
